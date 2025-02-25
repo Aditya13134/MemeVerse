@@ -21,11 +21,7 @@ A modern, animated web application built using **React, Framer Motion, Redux, an
 
 ---
 
-## 📸 Screenshots
 
-> _[Add screenshots or GIFs of your project here]_
-
----
 
 ## 🚀 Getting Started
 
