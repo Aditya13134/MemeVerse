@@ -36,10 +36,10 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Aditya13134/MemeVerse.git
 
 # Navigate into the directory
-cd your-repo
+cd MemeVerse
 
 # Install dependencies
 npm install
